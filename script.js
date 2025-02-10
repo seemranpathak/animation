@@ -305,19 +305,7 @@ var data = `
 ./bridges00157.png
 ./bridges00160.png
 ./bridges00163.png
-./bridges00166.png
-./bridges00169.png
-./bridges00172.png
-./bridges00175.png
-./bridges00178.png
-./bridges00181.png
-./bridges00184.png
-./bridges00187.png
-./bridges00190.png
-./bridges00193.png
-./bridges00196.png
-./bridges00199.png
-./bridges00202.png
+
 `;
 return data.split("\n")[index];
 }
